@@ -1,0 +1,2 @@
+AKS behöver ACR Pull på acr 
+ContainerPort i deployment måste ändras till Port 80

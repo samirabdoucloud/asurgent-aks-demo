@@ -1,0 +1,6 @@
+resources behöver korrigeras
+
+kubectl describe pod <pod-name> -n voteapp
+
+kubectl logs <pod-name> -n voteapp 
+
